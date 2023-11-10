@@ -1,0 +1,5 @@
+C:/Users/amoah/CLionProjects/exam10/cmake-build-debug/CMakeFiles/unittest.dir
+C:/Users/amoah/CLionProjects/exam10/cmake-build-debug/CMakeFiles/exam10.dir
+C:/Users/amoah/CLionProjects/exam10/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/amoah/CLionProjects/exam10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/amoah/CLionProjects/exam10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

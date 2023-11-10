@@ -1,0 +1,10 @@
+# ninja log v5
+6	878	7212807300647897	CMakeFiles/exam10.dir/main.cpp.obj	bf2aba931e1c9632
+1221	1339	7212827387690304	exam10.exe	6d47714f8f428666
+157	917	7212811572529144	CMakeFiles/exam10.dir/Account.cpp.obj	233cc1b2b650f96f
+151	942	7212811572866119	CMakeFiles/exam10.dir/Savings.cpp.obj	6de5e13d0da5e331
+164	950	7212811572986526	CMakeFiles/exam10.dir/Checking.cpp.obj	1df31fca199db36e
+1	491	7212828411772401	build.ninja	2264097e82de24b1
+4	100	7212827375291383	C:/Users/amoah/CLionProjects/exam10/cmake-build-debug/runner.cpp	1b5e8deab903a2ed
+4	100	7212827375291383	runner.cpp	1b5e8deab903a2ed
+101	1221	7212827386542561	CMakeFiles/exam10.dir/runner.cpp.obj	bec611bdaa4264e2
